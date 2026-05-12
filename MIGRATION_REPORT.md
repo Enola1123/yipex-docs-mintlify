@@ -1,0 +1,93 @@
+# Migration Report
+
+- Source: https://yipex.gitbook.io/yipex-docs
+- Pages migrated: 17
+- Unique GitBook image ids found: 60
+- Images downloaded locally: 60
+- Images downloaded from original GitBook file URLs: 60
+- Images downloaded from GitBook image proxy fallback: 0
+- Images left as external URLs: 0
+
+## Pages
+- `index` ← https://yipex.gitbook.io/yipex-docs/yipex-cao-zuo-zhi-yin-zong.md
+- `pc-duan/zhu-ce` ← https://yipex.gitbook.io/yipex-docs/pc-duan/zhu-ce.md
+- `pc-duan/deng-lu` ← https://yipex.gitbook.io/yipex-docs/pc-duan/deng-lu.md
+- `pc-duan/ren-zheng` ← https://yipex.gitbook.io/yipex-docs/pc-duan/ren-zheng.md
+- `pc-duan/shou-kuan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/shou-kuan.md
+- `pc-duan/chong-zhi` ← https://yipex.gitbook.io/yipex-docs/pc-duan/chong-zhi.md
+- `pc-duan/dui-huan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/dui-huan.md
+- `pc-duan/zhuan-ru-fa-bi-qian-bao` ← https://yipex.gitbook.io/yipex-docs/pc-duan/zhuan-ru-fa-bi-qian-bao.md
+- `pc-duan/fu-kuan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/fu-kuan.md
+- `pc-duan/huan-hui` ← https://yipex.gitbook.io/yipex-docs/pc-duan/huan-hui.md
+- `pc-duan/shou-kuan-ding-dan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/shou-kuan-ding-dan.md
+- `pc-duan/fu-kuan-ding-dan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/fu-kuan-ding-dan.md
+- `pc-duan/shu-bi-qian-bao-liu-shui` ← llms-full.txt fallback for https://yipex.gitbook.io/yipex-docs/pc-duan/shu-bi-qian-bao-liu-shui.md: RuntimeError: GitBook markdown endpoint returned unexpected error
+- `pc-duan/fa-bi-qian-bao-liu-shui` ← https://yipex.gitbook.io/yipex-docs/pc-duan/fa-bi-qian-bao-liu-shui.md
+- `pc-duan/ge-ren-zhong-xin` ← https://yipex.gitbook.io/yipex-docs/pc-duan/ge-ren-zhong-xin.md
+- `pc-duan/qu-kuai-lian-di-zhi-jiao-yan` ← https://yipex.gitbook.io/yipex-docs/pc-duan/qu-kuai-lian-di-zhi-jiao-yan.md
+- `app-duan/wan-shan-zhong` ← https://yipex.gitbook.io/yipex-docs/app-duan/wan-shan-zhong.md
+
+## Image Mapping Notes
+- /yipex-docs: unique markdown images=60, html image sources=62
+
+## Image Downloads
+- `0VlO3gq5eMxxM8gXuM8o`: original, 86245 bytes, `/images/gitbook/0VlO3gq5eMxxM8gXuM8o.png`
+- `0uH3Yg3UOjLwugJP5Piw`: original, 263063 bytes, `/images/gitbook/0uH3Yg3UOjLwugJP5Piw.png`
+- `0vIILvG2alMP5tiLbTvd`: original, 427101 bytes, `/images/gitbook/0vIILvG2alMP5tiLbTvd.png`
+- `2aM1uFzH2G88d0gV9Efr`: original, 249975 bytes, `/images/gitbook/2aM1uFzH2G88d0gV9Efr.png`
+- `2dLsmU6mbDLGthaw8zxp`: original, 124390 bytes, `/images/gitbook/2dLsmU6mbDLGthaw8zxp.png`
+- `39HbkgOWZ5qKX1YtJDLJ`: original, 305271 bytes, `/images/gitbook/39HbkgOWZ5qKX1YtJDLJ.png`
+- `5DfoL2LBd5xruIjeSyNN`: original, 176990 bytes, `/images/gitbook/5DfoL2LBd5xruIjeSyNN.png`
+- `6NfIkNwMK5ZgRem9L1UQ`: original, 75366 bytes, `/images/gitbook/6NfIkNwMK5ZgRem9L1UQ.png`
+- `8GIjiJuPoVfW6brfC11m`: original, 337246 bytes, `/images/gitbook/8GIjiJuPoVfW6brfC11m.png`
+- `8YCl1GcZzfZQPrsyZVmW`: original, 553027 bytes, `/images/gitbook/8YCl1GcZzfZQPrsyZVmW.png`
+- `9SVGEvlIiNbRBjB9SSrk`: original, 343006 bytes, `/images/gitbook/9SVGEvlIiNbRBjB9SSrk.png`
+- `EqQIootkKx6JjKwFiGuq`: original, 445175 bytes, `/images/gitbook/EqQIootkKx6JjKwFiGuq.png`
+- `GCVs5RjpZ6pdbq7Q23lK`: original, 383452 bytes, `/images/gitbook/GCVs5RjpZ6pdbq7Q23lK.png`
+- `GFMG0ZSHZyw6mlDupjrS`: original, 39206 bytes, `/images/gitbook/GFMG0ZSHZyw6mlDupjrS.png`
+- `GpWyaAzr3M4Xurf0Uhkj`: original, 55849 bytes, `/images/gitbook/GpWyaAzr3M4Xurf0Uhkj.png`
+- `GpfVUdW0oa4YGJjIIaPK`: original, 199551 bytes, `/images/gitbook/GpfVUdW0oa4YGJjIIaPK.png`
+- `JFOYAuo9JKmf2mM0kd76`: original, 372238 bytes, `/images/gitbook/JFOYAuo9JKmf2mM0kd76.png`
+- `KEqBDho1ujc6bdur8kMM`: original, 376816 bytes, `/images/gitbook/KEqBDho1ujc6bdur8kMM.png`
+- `KQVR2qRcw4r1XutxxXKK`: original, 327046 bytes, `/images/gitbook/KQVR2qRcw4r1XutxxXKK.png`
+- `LI3wi4o4NzT5yELE7U1u`: original, 553027 bytes, `/images/gitbook/LI3wi4o4NzT5yELE7U1u.png`
+- `LV7OrjdNlgx9whdfQO0S`: original, 407933 bytes, `/images/gitbook/LV7OrjdNlgx9whdfQO0S.png`
+- `NaK8dcYdxz7xKrSPuHiF`: original, 762232 bytes, `/images/gitbook/NaK8dcYdxz7xKrSPuHiF.png`
+- `OHFAILXRhcVUDX0SZJ4P`: original, 194095 bytes, `/images/gitbook/OHFAILXRhcVUDX0SZJ4P.png`
+- `OdnEeHJDMLp9Fbp756C0`: original, 243757 bytes, `/images/gitbook/OdnEeHJDMLp9Fbp756C0.png`
+- `PUFnhVTGzIWuHtQgnLgc`: original, 55084 bytes, `/images/gitbook/PUFnhVTGzIWuHtQgnLgc.png`
+- `R545NyRhE2HFBLoAqIMi`: original, 326364 bytes, `/images/gitbook/R545NyRhE2HFBLoAqIMi.png`
+- `RH4lBcc07mWaXprgSW1s`: original, 225625 bytes, `/images/gitbook/RH4lBcc07mWaXprgSW1s.png`
+- `SQpRXEg8uueLZ2h2TTKG`: original, 30972 bytes, `/images/gitbook/SQpRXEg8uueLZ2h2TTKG.png`
+- `UGzTKf5h6Mi1yJLbdKJu`: original, 233956 bytes, `/images/gitbook/UGzTKf5h6Mi1yJLbdKJu.png`
+- `V0sBDCITP2UsnWpPbxwb`: original, 329603 bytes, `/images/gitbook/V0sBDCITP2UsnWpPbxwb.png`
+- `VgMVjV9towdUz5jneWvh`: original, 745689 bytes, `/images/gitbook/VgMVjV9towdUz5jneWvh.png`
+- `WQx7E0w0NVC7tiWjLFn9`: original, 240403 bytes, `/images/gitbook/WQx7E0w0NVC7tiWjLFn9.png`
+- `Xu3cRZHXTgyRpmQdLsvq`: original, 192715 bytes, `/images/gitbook/Xu3cRZHXTgyRpmQdLsvq.png`
+- `ZHA2MMNSopDRNW0wFQg1`: original, 170345 bytes, `/images/gitbook/ZHA2MMNSopDRNW0wFQg1.png`
+- `ZQzo59cutl8NzPCuaJSh`: original, 305661 bytes, `/images/gitbook/ZQzo59cutl8NzPCuaJSh.png`
+- `a6vRl8WFY15HnHJlBbjo`: original, 255143 bytes, `/images/gitbook/a6vRl8WFY15HnHJlBbjo.png`
+- `biyHp0PnwfaeWxmlspfy`: original, 324192 bytes, `/images/gitbook/biyHp0PnwfaeWxmlspfy.png`
+- `co81U4NonqwGDJ0lpvFW`: original, 46381 bytes, `/images/gitbook/co81U4NonqwGDJ0lpvFW.png`
+- `e0vahNKFV0ln0lNaQt8p`: original, 311773 bytes, `/images/gitbook/e0vahNKFV0ln0lNaQt8p.png`
+- `en5dNmdrLRvK21rAWMdE`: original, 136732 bytes, `/images/gitbook/en5dNmdrLRvK21rAWMdE.png`
+- `f4QrEdHNBujpGb4YQbcf`: original, 384650 bytes, `/images/gitbook/f4QrEdHNBujpGb4YQbcf.png`
+- `fNHpIbsf2OL1X3jnjLbL`: original, 325501 bytes, `/images/gitbook/fNHpIbsf2OL1X3jnjLbL.png`
+- `gVTuHaJAbtoA9Kf6Bn4q`: original, 392008 bytes, `/images/gitbook/gVTuHaJAbtoA9Kf6Bn4q.png`
+- `h6auzRij0x9S3R42vbwN`: original, 1149922 bytes, `/images/gitbook/h6auzRij0x9S3R42vbwN.png`
+- `iPD29dv4Jw2E0hrZb8aN`: original, 384628 bytes, `/images/gitbook/iPD29dv4Jw2E0hrZb8aN.png`
+- `jZJUHa97tiU33pvLaFVa`: original, 256822 bytes, `/images/gitbook/jZJUHa97tiU33pvLaFVa.png`
+- `lIoSWNOBeajMNkUbwpwg`: original, 221319 bytes, `/images/gitbook/lIoSWNOBeajMNkUbwpwg.png`
+- `miDGcT2EFZCjqpx0LkPt`: original, 128530 bytes, `/images/gitbook/miDGcT2EFZCjqpx0LkPt.png`
+- `oLiK2eK08dr4PtLMaCxO`: original, 33582 bytes, `/images/gitbook/oLiK2eK08dr4PtLMaCxO.png`
+- `pfR0qxiINpgrgK4tqBAS`: original, 333382 bytes, `/images/gitbook/pfR0qxiINpgrgK4tqBAS.png`
+- `qOGy41zLSt3O1ITqqgh8`: original, 637305 bytes, `/images/gitbook/qOGy41zLSt3O1ITqqgh8.png`
+- `rHAq07WO8Obq3aJssg8Q`: original, 345368 bytes, `/images/gitbook/rHAq07WO8Obq3aJssg8Q.png`
+- `snwEJskCiEZhTt7r8ICW`: original, 412765 bytes, `/images/gitbook/snwEJskCiEZhTt7r8ICW.png`
+- `suXmxz2LhfBOsgM4JD0E`: original, 245042 bytes, `/images/gitbook/suXmxz2LhfBOsgM4JD0E.png`
+- `wHXuuhssHkdX9kMjeS7h`: original, 743427 bytes, `/images/gitbook/wHXuuhssHkdX9kMjeS7h.png`
+- `wK4jdD3924j1UxcJUaOK`: original, 156681 bytes, `/images/gitbook/wK4jdD3924j1UxcJUaOK.png`
+- `wkTaPh2N2T3LS5izh6hQ`: original, 571752 bytes, `/images/gitbook/wkTaPh2N2T3LS5izh6hQ.png`
+- `yKVpN7dWpBTuJSX0ZJak`: original, 528880 bytes, `/images/gitbook/yKVpN7dWpBTuJSX0ZJak.png`
+- `zMi2lEQ68xJZ6fu9ljXo`: original, 87970 bytes, `/images/gitbook/zMi2lEQ68xJZ6fu9ljXo.png`
+- `zs6rdclPjWdUFuLvXRYP`: original, 254044 bytes, `/images/gitbook/zs6rdclPjWdUFuLvXRYP.png`

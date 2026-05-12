@@ -1,0 +1,48 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "YiPex",
+  "description": "YiPex 操作指引",
+  "colors": {
+    "primary": "#1677ff"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "首页",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "group": "PC端",
+        "pages": [
+          "pc-duan/zhu-ce",
+          "pc-duan/deng-lu",
+          "pc-duan/ren-zheng",
+          "pc-duan/shou-kuan",
+          "pc-duan/chong-zhi",
+          "pc-duan/dui-huan",
+          "pc-duan/zhuan-ru-fa-bi-qian-bao",
+          "pc-duan/fu-kuan",
+          "pc-duan/huan-hui",
+          "pc-duan/shou-kuan-ding-dan",
+          "pc-duan/fu-kuan-ding-dan",
+          "pc-duan/shu-bi-qian-bao-liu-shui",
+          "pc-duan/fa-bi-qian-bao-liu-shui",
+          "pc-duan/ge-ren-zhong-xin",
+          "pc-duan/qu-kuai-lian-di-zhi-jiao-yan"
+        ]
+      },
+      {
+        "group": "APP端",
+        "pages": [
+          "app-duan/wan-shan-zhong"
+        ]
+      }
+    ]
+  },
+  "metadata": {
+    "timestamp": true
+  }
+}
