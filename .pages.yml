@@ -1,0 +1,101 @@
+media:
+  - name: images
+    label: Images
+    input: images
+    output: /images
+    extensions: [png, jpg, jpeg, webp, gif]
+    rename: safe
+
+settings:
+  content:
+    merge: true
+  commit:
+    identity: user
+    templates:
+      create: "docs: create {path}"
+      update: "docs: update {path}"
+      delete: "docs: delete {path}"
+      rename: "docs: rename {oldPath} -> {newPath}"
+
+content:
+  - name: home
+    label: 首页
+    type: file
+    path: index.mdx
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: 标题
+        type: string
+      - name: description
+        label: 描述
+        type: text
+        required: false
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+          media: images
+          path: gitbook
+          switcher: true
+
+  - name: pc
+    label: PC端页面
+    type: collection
+    path: pc-duan
+    format: yaml-frontmatter
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      primary: title
+      fields: [title]
+    fields:
+      - name: title
+        label: 标题
+        type: string
+      - name: description
+        label: 描述
+        type: text
+        required: false
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+          media: images
+          path: gitbook
+          switcher: true
+
+  - name: app
+    label: APP端页面
+    type: collection
+    path: app-duan
+    format: yaml-frontmatter
+    subfolders: false
+    operations:
+      create: false
+      rename: false
+      delete: false
+    view:
+      primary: title
+      fields: [title]
+    fields:
+      - name: title
+        label: 标题
+        type: string
+      - name: description
+        label: 描述
+        type: text
+        required: false
+      - name: body
+        label: 正文
+        type: rich-text
+        options:
+          format: markdown
+          media: images
+          path: gitbook
+          switcher: true
