@@ -19,9 +19,9 @@ settings:
 
 content:
   - name: home
-    label: 首页
+    label: 总页面
     type: file
-    path: index.mdx
+    path: yipex-cao-zuo-zhi-yin-zong.mdx
     format: yaml-frontmatter
     fields:
       - name: title

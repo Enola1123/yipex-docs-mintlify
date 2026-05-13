@@ -12,6 +12,8 @@ Pages CMS writes changes back to GitHub. Mintlify then deploys the latest `main`
 
 ## Daily editing rules
 
+- Edit `总页面` for the sidebar home page.
+- Keep `index.mdx`; it is used for the direct `/docs` address.
 - Edit existing pages under `PC端页面` or `APP端页面`.
 - Upload new screenshots into `images/`.
 - Keep image links as `/images/...`.
