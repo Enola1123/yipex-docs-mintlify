@@ -44,5 +44,13 @@
   },
   "metadata": {
     "timestamp": true
+  },
+  "logo": {
+    "light": "/images/yipex图标.png",
+    "dark": "/images/yipex图标.png"
+  },
+  "favicon": {
+    "light": "/images/yipex图标.png",
+    "dark": "/images/yipex图标.png"
   }
 }
